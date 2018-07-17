@@ -20,3 +20,6 @@ SQLAlchemy==1.2.7
 statsmodels==0.9.0
 bs4==0.0.1
 pykalman==0.9.5
+
+## TODO
+- [ ] Complete **Trading calender spread**, 07/16/2018
